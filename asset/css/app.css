@@ -1,7 +1,8 @@
+
 .jumbotron {
   margin: 0 auto;
   margin-top: 50px;
-  width: 80%;
+  width: 75%;
 }
 
 .jumbotron h2 {
@@ -11,4 +12,8 @@
   margin-top: 0;
   font-weight: 200;
   color: inherit;
+}
+
+.carousel {
+  margin-top: 73px;
 }
